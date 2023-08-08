@@ -5,8 +5,8 @@
     <description>这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员</description>
     <link>https://huangxuan.me/</link>
     <atom:link href="https://huangxuan.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 08 Aug 2023 11:03:30 -0500</pubDate>
-    <lastBuildDate>Tue, 08 Aug 2023 11:03:30 -0500</lastBuildDate>
+    <pubDate>Tue, 08 Aug 2023 11:20:55 -0500</pubDate>
+    <lastBuildDate>Tue, 08 Aug 2023 11:20:55 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -40,6 +40,37 @@
         <category>노동 시장</category>
         
         <category>인플레이션 관리</category>
+        
+        <category>주식 시장</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>연준의 결정, 노동 시장, 인플레이션, 주식 시장 </title>
+        <description>&lt;p&gt;연준은 노동시장과 인플레이션 목표에 부합하는 현재 데이터에 따라 금리를 동결할 수 있습니다. 또한 주식 시장에 대한 낙관적인 전망은 경제 성장과 금융주에 대한 긍정적인 요인에 힘입어 상승 랠리가 지속될 것임을 시사합니다. 데이터와 연준의 조치를 모니터링하여 시장 궤적을 주시하세요.&lt;/p&gt;
+
+&lt;h2 id=&quot;연준의-잠재적-일시-중단-결정&quot;&gt;연준의 잠재적 일시 중단 결정&lt;/h2&gt;
+
+&lt;p&gt;한 전문가에 따르면, 현재 데이터는 연방준비제도(연준)가 계획을 일시 중지하거나 보류할 수 있음을 시사한다고 합니다. 이 전문가는 특히 노동 시장 상황을 고려할 때 데이터가 연준의 바람과 일치한다고 생각합니다. 일자리 창출은 감소하고 있지만 실업률은 약 3.5%로 안정적으로 유지되고 있으며, 이는 연준에게 이상적인 시나리오로 간주됩니다. 또한 일자리 공석은 감소하고 있고 노동 참여율은 증가하고 있으며 임금 상승률은 4.4%로 원하는 범위에 충분히 근접하고 있습니다. 전문가들은 인플레이션 추세를 나타내는 인플레이션 데이터와 함께 이러한 모든 요인을 고려하여 연준이 일시 중단을 결정할 것으로 예측합니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;주식-시장의-낙관론&quot;&gt;주식 시장의 낙관론&lt;/h2&gt;
+
+&lt;p&gt;전문가는 또한 주식 시장에 대해 긍정적으로 평가하며 랠리가 계속 확대될 것으로 예상합니다. 이러한 낙관론의 주된 이유 중 하나는 경제 성장에 대한 기대감입니다. 애틀랜타 연준의 3분기 국내총생산(GDP) 예상치는 현재 3.9%로, 컨센서스의 예상치인 둔화보다 가속도가 붙을 것으로 예상됩니다. 이러한 경제 성장은 기업에게 호재로 작용하여 실적 개선으로 이어지고 궁극적으로 주가를 끌어올릴 것으로 보입니다. 전문가는 또한 최근 금융주가 기술 및 기타 섹터를 능가하는 성과를 보였는데, 이는 부분적으로 금융에 유리한 수익률 곡선이 가파르게 상승했기 때문이라고 지적합니다. 전문가는 연착륙, 주요 디폴트 부재, 수익률 추가 하락 가능성이 랠리 확대 지속에 기여할 것으로 보고 있습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;요약-및-결산&quot;&gt;요약 및 결산&lt;/h2&gt;
+
+&lt;p&gt;요약하자면, 현재 데이터는 연준의 잠재적인 금리인상 중단 결정을 뒷받침하고 있습니다. 인플레이션 데이터와 결합된 노동시장 지표는 연준의 목표와 일치합니다. 또한 전문가는 주식 시장에 대해 낙관적인 견해를 갖고 있으며 상승 랠리가 지속될 것으로 예상합니다. 이러한 낙관론은 예상되는 경제 성장과 금융주에 대한 긍정적 요인에 의해 주도됩니다. 항상 그렇듯이 데이터와 연준의 조치를 면밀히 모니터링하여 시장의 궤적을 더 잘 이해하는 것이 중요합니다.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Aug 2023 00:00:00 -0500</pubDate>
+        <link>https://huangxuan.me/2023/08/08/5836-ko/</link>
+        <guid isPermaLink="true">https://huangxuan.me/2023/08/08/5836-ko/</guid>
+        
+        <category>연준의 결정</category>
+        
+        <category>노동 시장</category>
+        
+        <category>인플레이션</category>
         
         <category>주식 시장</category>
         
@@ -267,54 +298,6 @@
         <category>笔记</category>
         
         <category>En</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>JavaScript 模块化七日谈</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;下滑这里查看更多内容&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;7月9日，我在公司内部进行了名为「JavaScript 模块化七日谈」分享，并将该 Slides 分享到了微博上。出乎意料地，这篇微博先后被 @JS小组 @尤小右 @寸志 等近 200 人转发，阅读达到 10w，获得了还不错的评价。&lt;/p&gt;
-
-&lt;p&gt;于是，我决定将它重新发到我的博客上，并为它专门制作了适用于 Keynote 展示文稿的新布局。它能自动根据屏幕大小/旋转以一定比例填充屏幕，你也可以直接点击下方链接在新页面打开，来获得更好的、沉浸式的全屏体验&lt;/p&gt;
-
-&lt;h3 id=&quot;watch-fullscreen-&quot;&gt;&lt;a href=&quot;https://huangxuan.me/js-module-7day/&quot;&gt;Watch Fullscreen →&lt;/a&gt;&lt;/h3&gt;
-
-&lt;div class=&quot;visible-md visible-lg&quot;&gt;
-&lt;img src=&quot;//huangxuan.me/js-module-7day/attach/qrcode.png&quot; width=&quot;350&quot; /&gt;
-&lt;small class=&quot;img-hint&quot;&gt;你也可以通过扫描二维码在手机上观看&lt;/small&gt;
-&lt;/div&gt;
-
-&lt;p&gt;这个 Web Slides 开源在&lt;a href=&quot;https://github.com/Huxpro/js-module-7day&quot;&gt;我的 Github 上&lt;/a&gt;，欢迎你帮助我完善这个展示文稿，你可以给我提 issue，可以 fork &amp;amp; pull request。如果它能帮助到你了，希望你还能不吝啬 star 一下这个项目&lt;/p&gt;
-
-&lt;h3 id=&quot;catalog&quot;&gt;Catalog&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;第一日 上古时期 &lt;strong&gt;&lt;em&gt;Module?&lt;/em&gt;&lt;/strong&gt; 从设计模式说起&lt;/li&gt;
-  &lt;li&gt;第二日 石器时代 &lt;strong&gt;&lt;em&gt;Script Loader&lt;/em&gt;&lt;/strong&gt; 只有封装性可不够，我们还需要加载&lt;/li&gt;
-  &lt;li&gt;第三日 蒸汽朋克 &lt;strong&gt;&lt;em&gt;Module Loader&lt;/em&gt;&lt;/strong&gt; 模块化架构的工业革命&lt;/li&gt;
-  &lt;li&gt;第四日 号角吹响 &lt;strong&gt;&lt;em&gt;CommonJS&lt;/em&gt;&lt;/strong&gt; 征服世界的第一步是跳出浏览器&lt;/li&gt;
-  &lt;li&gt;第五日 双塔奇兵 &lt;strong&gt;&lt;em&gt;AMD/CMD&lt;/em&gt;&lt;/strong&gt; 浏览器环境模块化方案&lt;/li&gt;
-  &lt;li&gt;第六日 精灵宝钻 &lt;strong&gt;&lt;em&gt;Browserify/Webpack&lt;/em&gt;&lt;/strong&gt; 大势所趋，去掉这层包裹！&lt;/li&gt;
-  &lt;li&gt;第七日 王者归来 &lt;strong&gt;&lt;em&gt;ES6 Module&lt;/em&gt;&lt;/strong&gt; 最后的战役&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;thanks&quot;&gt;Thanks&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://lab.hakim.se/reveal-js&quot;&gt;Reveal.js&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 09 Jul 2015 00:00:00 -0500</pubDate>
-        <link>https://huangxuan.me/2015/07/09/js-module-7day/</link>
-        <guid isPermaLink="true">https://huangxuan.me/2015/07/09/js-module-7day/</guid>
-        
-        <category>Slides</category>
-        
-        <category>Web</category>
-        
-        <category>JavaScript</category>
         
         
       </item>

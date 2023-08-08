@@ -12,26 +12,32 @@
 
     <!-- Open Graph -->
     <meta property="og:title"
-        content="Vim 与中文输入法 - 黄玄的博客 | Hux Blog">
+        content="연준의 결정, 노동 시장, 인플레이션, 주식 시장  - 黄玄的博客 | Hux Blog">
     
     <meta property="og:type" content="article">
-    <meta property="og:description" content="Update: 我最后还是放弃把 Vim 作为主要编辑器来输入中文了，整体使用下来 mental model 的 cost 太重了。记笔记时用用中文呀或者改改博客时偶尔用一下还蛮去，这个时候这个功能至少能帮助你 Esc 之后不煞笔，所以也不算完全没有价值吧……
+    <meta property="og:description" content="연준은 노동시장과 인플레이션 목표에 부합하는 현재 데이터에 따라 금리를 동결할 수 있습니다. 또한 주식 시장에 대한 낙관적인 전망은 경제 성장과 금융주에 대한 긍정적인 요인에 힘입어 상승 랠리가 지속될 것임을 시사합니다. 데이터와 연준의 조치를 모니터링하여 시장 궤적을 주시하세요.
 ">
     
-    <meta property="article:published_time" content=" 2018-10-06T00:00:00Z">
+    <meta property="article:published_time" content=" 2023-08-08T00:00:00Z">
     
     
-    <meta property="article:author" content="Hux">
+    <meta property="article:author" content="Trendy Wolf">
     
     
-    <meta property="article:tag" content="Vim">
+    <meta property="article:tag" content="연준의 결정">
+    
+    <meta property="article:tag" content="노동 시장">
+    
+    <meta property="article:tag" content="인플레이션">
+    
+    <meta property="article:tag" content="주식 시장">
     
     
     <meta property="og:image" content="https://huangxuan.mehttps://github.com/Huxpro.png">
-    <meta property="og:url" content="https://huangxuan.me/2018/10/06/vim-cn-im/">
+    <meta property="og:url" content="https://huangxuan.me/2023/08/08/5836-ko/">
     <meta property="og:site_name" content="黄玄的博客 | Hux Blog">
 
-    <title>Vim 与中文输入法 - 黄玄的博客 | Hux Blog</title>
+    <title>연준의 결정, 노동 시장, 인플레이션, 주식 시장  - 黄玄的博客 | Hux Blog</title>
 
     <!-- Web App Manifest -->
     <link rel="manifest" href="/pwa/manifest.json">
@@ -40,7 +46,7 @@
     <link rel="shortcut icon" href="/img/favicon.ico">
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://huangxuan.me/2018/10/06/vim-cn-im/">
+    <link rel="canonical" href="https://huangxuan.me/2023/08/08/5836-ko/">
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href=" /css/bootstrap.min.css">
@@ -235,13 +241,19 @@
                 <div class="post-heading">
                     <div class="tags">
                         
-                        <a class="tag" href="/archive/?tag=Vim" title="Vim">Vim</a>
+                        <a class="tag" href="/archive/?tag=%EC%97%B0%EC%A4%80%EC%9D%98+%EA%B2%B0%EC%A0%95" title="연준의 결정">연준의 결정</a>
+                        
+                        <a class="tag" href="/archive/?tag=%EB%85%B8%EB%8F%99+%EC%8B%9C%EC%9E%A5" title="노동 시장">노동 시장</a>
+                        
+                        <a class="tag" href="/archive/?tag=%EC%9D%B8%ED%94%8C%EB%A0%88%EC%9D%B4%EC%85%98" title="인플레이션">인플레이션</a>
+                        
+                        <a class="tag" href="/archive/?tag=%EC%A3%BC%EC%8B%9D+%EC%8B%9C%EC%9E%A5" title="주식 시장">주식 시장</a>
                         
                     </div>
-                    <h1>Vim 与中文输入法</h1>
+                    <h1>연준의 결정, 노동 시장, 인플레이션, 주식 시장 </h1>
                     
-                    <h2 class="subheading">Using Vim with non-english input method</h2>
-                    <span class="meta">Posted by Hux on October 6, 2018</span>
+                    <h2 class="subheading"></h2>
+                    <span class="meta">Posted by Trendy Wolf on August 8, 2023</span>
                 </div>
             </div>
         </div>
@@ -268,40 +280,36 @@
                 <!-- Multi-Lingual -->
                 
 
-				<p>Update: 我最后还是放弃把 Vim 作为主要编辑器来输入中文了，整体使用下来 mental model 的 cost 太重了。记笔记时用用中文呀或者改改博客时偶尔用一下还蛮去，这个时候这个功能至少能帮助你 Esc 之后不煞笔，所以也不算完全没有价值吧……</p>
+				<p>연준은 노동시장과 인플레이션 목표에 부합하는 현재 데이터에 따라 금리를 동결할 수 있습니다. 또한 주식 시장에 대한 낙관적인 전망은 경제 성장과 금융주에 대한 긍정적인 요인에 힘입어 상승 랠리가 지속될 것임을 시사합니다. 데이터와 연준의 조치를 모니터링하여 시장 궤적을 주시하세요.</p>
 
-<hr />
+<h2 id="연준의-잠재적-일시-중단-결정">연준의 잠재적 일시 중단 결정</h2>
 
-<p>我相信很多中文世界的 Vimer 都遇到过这个烦恼，在 vim 的 insert 模式时可能突然想输个中文，输完之后会本能的直接 <code class="language-plaintext highlighter-rouge">esc</code> 接 normal 模式操作，结果发现跳出来的是中文输入法……对于 vscode，我一般会在几次错误之后被逼到退出 vscode vim 模式，而对于终端中用的 neovim，就只能尽量不输入中文了。</p>
+<p>한 전문가에 따르면, 현재 데이터는 연방준비제도(연준)가 계획을 일시 중지하거나 보류할 수 있음을 시사한다고 합니다. 이 전문가는 특히 노동 시장 상황을 고려할 때 데이터가 연준의 바람과 일치한다고 생각합니다. 일자리 창출은 감소하고 있지만 실업률은 약 3.5%로 안정적으로 유지되고 있으며, 이는 연준에게 이상적인 시나리오로 간주됩니다. 또한 일자리 공석은 감소하고 있고 노동 참여율은 증가하고 있으며 임금 상승률은 4.4%로 원하는 범위에 충분히 근접하고 있습니다. 전문가들은 인플레이션 추세를 나타내는 인플레이션 데이터와 함께 이러한 모든 요인을 고려하여 연준이 일시 중단을 결정할 것으로 예측합니다.</p>
 
-<p>为了满足我 1% 用 vim 输入中文的场景（比如写博客），我还是想看看有没有什么解决方案，Google 出来的解决方案基本是：<em>在退出 insert 模式时记住当时的输入法，并自动切换到默认输入法（一般是英文）给 normal 模式用，并且在下一次进入 insert 模式时再切换回来。</em></p>
+<h2 id="주식-시장의-낙관론">주식 시장의 낙관론</h2>
 
-<p>原生 vim 的话，可以使用 <a href="https://github.com/ybian/smartim">smartim</a> 插件，原理是调用 <a href="https://github.com/daipeihust/im-select">im-select</a> 这个 CLI 工具来切换输入法。</p>
+<p>전문가는 또한 주식 시장에 대해 긍정적으로 평가하며 랠리가 계속 확대될 것으로 예상합니다. 이러한 낙관론의 주된 이유 중 하나는 경제 성장에 대한 기대감입니다. 애틀랜타 연준의 3분기 국내총생산(GDP) 예상치는 현재 3.9%로, 컨센서스의 예상치인 둔화보다 가속도가 붙을 것으로 예상됩니다. 이러한 경제 성장은 기업에게 호재로 작용하여 실적 개선으로 이어지고 궁극적으로 주가를 끌어올릴 것으로 보입니다. 전문가는 또한 최근 금융주가 기술 및 기타 섹터를 능가하는 성과를 보였는데, 이는 부분적으로 금융에 유리한 수익률 곡선이 가파르게 상승했기 때문이라고 지적합니다. 전문가는 연착륙, 주요 디폴트 부재, 수익률 추가 하락 가능성이 랠리 확대 지속에 기여할 것으로 보고 있습니다.</p>
 
-<p>对于 VSCode-vim 的话，smartim 的移植也在近期的 PR 中被 merge 到了插件里，<a href="https://github.com/VSCodeVim/Vim#use-im-select">详情见文档的这部分配置</a>，需要指定一下默认输入法和 im-select 的 binary 路径就好。</p>
+<h2 id="요약-및-결산">요약 및 결산</h2>
 
-<hr />
-<p>
-不过实话说，在 vim 中编辑中文的效率和体验和英文比都是大打折扣的。因为中文分词难度太高，不像英文可以简单依靠一个 <code class="language-plaintext highlighter-rouge">split " "</code> 搞定。所以其实无论 vim（<code class="language-plaintext highlighter-rouge">w</code>ord，<code class="language-plaintext highlighter-rouge">b</code>egin，<code class="language-plaintext highlighter-rouge">e</code>nd），emacs 还是操作系统自带的（比如 macOS 中的 <code class="language-plaintext highlighter-rouge">alt + 箭头</code>） 「按词移动」功能对于中文都仅仅是跳转到下一个空格处而已，对于中文来说基本就是下一句了……其他常用操作诸如 <code class="language-plaintext highlighter-rouge">f</code>，<code class="language-plaintext highlighter-rouge">/</code>, <code class="language-plaintext highlighter-rouge">r</code>eplace, <code class="language-plaintext highlighter-rouge">t</code>ill 也都无法很好的工作，基本只能靠 <code class="language-plaintext highlighter-rouge">hjkl</code> 爬行……</p>
-
-<p>不过也算聊胜于无吧，由于我的主力外置键盘是 HHKB，能用 vim 操作的一个子集（<code class="language-plaintext highlighter-rouge">hjkl</code>, <code class="language-plaintext highlighter-rouge">o</code>, <code class="language-plaintext highlighter-rouge">A</code>, <code class="language-plaintext highlighter-rouge">I</code>, <code class="language-plaintext highlighter-rouge">v</code> etc.）可能也比按住 <code class="language-plaintext highlighter-rouge">Fn</code> 的方向键好用……</p>
+<p>요약하자면, 현재 데이터는 연준의 잠재적인 금리인상 중단 결정을 뒷받침하고 있습니다. 인플레이션 데이터와 결합된 노동시장 지표는 연준의 목표와 일치합니다. 또한 전문가는 주식 시장에 대해 낙관적인 견해를 갖고 있으며 상승 랠리가 지속될 것으로 예상합니다. 이러한 낙관론은 예상되는 경제 성장과 금융주에 대한 긍정적 요인에 의해 주도됩니다. 항상 그렇듯이 데이터와 연준의 조치를 면밀히 모니터링하여 시장의 궤적을 더 잘 이해하는 것이 중요합니다.</p>
 
 
                 <hr style="visibility: hidden;">
                 <ul class="pager">
                     
                     <li class="previous">
-                        <a href="/2018/09/27/avoiding-success-at-all-cost/" data-toggle="tooltip" data-placement="top" title="Avoiding success at all cost">
+                        <a href="/2023/08/08/4773-ko/" data-toggle="tooltip" data-placement="top" title="연준 금리 인상, 노동 시장, 주식 시장, 금융 ">
                         Previous<br>
-                        <span>Avoiding success at all cost</span>
+                        <span>연준 금리 인상, 노동 시장, 주식 시장, 금융 </span>
                         </a>
                     </li>
                     
                     
                     <li class="next">
-                        <a href="/2020/05/05/pl-chart/" data-toggle="tooltip" data-placement="top" title="My Programming Languages Spectrum">
+                        <a href="/2023/08/08/8883-ko/" data-toggle="tooltip" data-placement="top" title="연준 금리 인상, 노동 시장, 인플레이션 관리, 주식 시장 ">
                         Next<br>
-                        <span>My Programming Languages Spectrum</span>
+                        <span>연준 금리 인상, 노동 시장, 인플레이션 관리, 주식 시장 </span>
                         </a>
                     </li>
                     
@@ -396,8 +404,8 @@
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = "hux";
-    var disqus_identifier = "/2018/10/06/vim-cn-im";
-    var disqus_url = "https://huangxuan.me/2018/10/06/vim-cn-im/";
+    var disqus_identifier = "/2023/08/08/5836-ko";
+    var disqus_url = "https://huangxuan.me/2023/08/08/5836-ko/";
 
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
