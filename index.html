@@ -1,6 +1,7 @@
 ---
 layout: page
-description: "V2B Economy"
+title: Wolf Economy
+description: Committed to delivering economy news
 ---
 
 {% for post in paginator.posts %}
@@ -23,7 +24,7 @@ description: "V2B Economy"
         </div>
     </a>
     <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+        Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
 </div>
 <hr>
