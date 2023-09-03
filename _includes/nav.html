@@ -25,9 +25,12 @@
                         </li>
                         {% for page in site.pages %}
                         {% if page.title and page.hide-in-nav != true %}
+<!--                         {% if page.title == 'Archive' or page.title == 'About' %} -->
+                        {% if page.title == 'Archive' %}
                         <li>
                             <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                         </li>
+                        {% endif %}
                         {% endif %}
                         {% endfor %}
                         <li class="search-icon">
