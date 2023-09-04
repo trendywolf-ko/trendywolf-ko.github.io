@@ -3,7 +3,7 @@ title: Trendy Wolf
 SEOTitle: Trendy Wolf | Economy Blog
 header-img: img/home-bg.jpg
 email: joonsun.baek@gmail.com
-description: "Committed to delivering economy news"
+description: "Committed to delivering U.S. economy news"
 keyword: "economy, fed, US, wallstreet, money, investment, trendy, wolf"
 url: "https://trendywolf-ko.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -74,12 +74,12 @@ ga_domain: trendywolf-ko.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/trendywolf.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "The Wolf That Never Rests, Daily Quests for Useful Information."
+sidebar-avatar: /img/trendy-wolf.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
-featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 2 # A tag will be featured if the size of it is more than this condition value
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
