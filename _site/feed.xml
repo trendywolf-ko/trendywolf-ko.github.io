@@ -5,8 +5,8 @@
     <description>Committed to delivering U.S. economy news</description>
     <link>https://trendywolf-ko.github.io//</link>
     <atom:link href="https://trendywolf-ko.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 10 Oct 2023 03:06:53 -0500</pubDate>
-    <lastBuildDate>Tue, 10 Oct 2023 03:06:53 -0500</lastBuildDate>
+    <pubDate>Tue, 10 Oct 2023 06:06:54 -0500</pubDate>
+    <lastBuildDate>Tue, 10 Oct 2023 06:06:54 -0500</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
@@ -81,6 +81,44 @@
         <category>호주달러</category>
         
         <category>주식시장</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>미국 경제의 과소평가, 채권 시장의 흔들림, 인플레이션과 부채 위기의 위험성</title>
+        <description>&lt;p&gt;안녕하세요. 트렌디울프입니다. 이번 글에서는 과소평가된 미국 경제의 강점과 최근 채권시장 흔들림에 미치는 영향에 대해 알아보겠습니다. 또한 설명되지 않은 인플레이션 기대와 다가오는 부채 위기의 잠재적 위험, 채권 수익률의 공정 가치와 오버슈팅 가능성에 대해서도 논의할 것입니다. 현재 경제 환경을 형성하는 이러한 중요한 요소에 대해 자세히 알아보세요.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.ytimg.com/vi/8zYbh8fVqvw/hqdefault.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;과소평가된-미국-경제의-힘&quot;&gt;과소평가된 미국 경제의 힘&lt;/h2&gt;
+&lt;p&gt;최근 채권 시장이 흔들리는 것은 미국 경제의 강점을 과소평가했기 때문입니다. 이전의 믿음과는 달리 미국 가계는 더 많은 현금과 깨끗한 대차대조표를 보유하고 있으며, 이는 경제를 발전시키고 있습니다. 이로 인해 이전에 시장에 널리 퍼져 있던 경기 침체 이야기가 무너지면서 채권 수익률이 재설정되었습니다. 이러한 경제 낙관론의 핵심 지표인 초과 저축이 없는 미국 소비자의 강세는 이러한 변화의 중요한 요인이었습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;설명되지-않은-인플레이션-기대와-부채-위기&quot;&gt;설명되지 않은 인플레이션 기대와 부채 위기&lt;/h2&gt;
+&lt;p&gt;인플레이션 기대치와 미국의 부채 위기 가능성은 아직 시장에 반영되지 않았습니다. 인터뷰에 참여한 전문가는 향후 10년간 장기 인플레이션 기대치를 현재의 2.4%에서 크게 상승한 3%로 예상하고 있습니다. 이러한 요인이 작용하면 채권 수익률은 더 높아질 수 있습니다. 이러한 인플레이션 기대치의 과소 평가는 잠재적으로 부채 위기로 이어질 수 있으며, 이는 아직 시장에서 해결되지 않은 우려입니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;채권-수익률의-공정-가치와-오버슈팅-가능성&quot;&gt;채권 수익률의 공정 가치와 오버슈팅 가능성&lt;/h2&gt;
+&lt;p&gt;채권 수익률의 공정 가치는 기간 프리미엄과 중립금리(R*) 등의 요인을 고려해야 하는 복잡한 문제입니다. 전문가들은 경기 부양책에도 불구하고 장기 인플레이션 기대치는 변하지 않았으며, 이는 채권 수익률의 공정가치가 5%에 가깝다는 것을 시사한다고 주장합니다. 이는 대부분의 투자자가 예상한 것보다 높아 수익률이 오버슈팅할 가능성이 있습니다. 이런 상황이 발생하면 투자자들은 채권을 덤핑하기 시작하여 자체 제한 메커니즘을 만들 수 있습니다. 이는 과거 영란은행이 했던 것과 유사하게 중앙은행이 개입해야 하는 상황으로 이어질 수 있습니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;&lt;em&gt;Reference&lt;/em&gt;&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;https://www.youtube.com/watch?v=8zYbh8fVqvw&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 10 Oct 2023 00:00:00 -0500</pubDate>
+        <link>https://trendywolf-ko.github.io//2023/10/10/0864-ko/</link>
+        <guid isPermaLink="true">https://trendywolf-ko.github.io//2023/10/10/0864-ko/</guid>
+        
+        <category>채권시장</category>
+        
+        <category>미국경제</category>
+        
+        <category>인플레이션기대</category>
+        
+        <category>부채위기</category>
+        
+        <category>채권수익률</category>
         
         
       </item>
@@ -349,44 +387,6 @@
         <category>크라우딩아웃</category>
         
         <category>부채서비스비용</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>정부 셧다운과 포트폴리오 영향, 4분기 강세 전망, 고금리를 헤쳐나가기 위한 전략</title>
-        <description>&lt;p&gt;안녕하세요. 트렌디울프입니다. 이번 글에서는 정부 셧다운이 포트폴리오에 미치는 잠재적 영향과 이 기간 동안의 과거 시장 성과를 살펴보겠습니다. 또한 4분기에 대한 로렌스 스프링의 낙관적 전망과 금리 상승기에 대응하기 위한 권장 사항에 대해서도 논의할 것입니다. 현재 금리 환경에서 재무 목표를 달성하기 위한 전략에 대해 알아보세요.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://i.ytimg.com/vi/WUDsZHayHKg/hqdefault.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;정부-셧다운이-포트폴리오에-미치는-영향&quot;&gt;정부 셧다운이 포트폴리오에 미치는 영향&lt;/h2&gt;
-&lt;p&gt;Mlin Financial의 설립자이자 ‘개인 재무 계획’의 저자인 로렌스 스프링은 최근 정부 셧다운이 포트폴리오에 미칠 수 있는 잠재적 영향에 대해 설명했습니다. 그는 1976년 이후 22번의 자금 공백이 발생했으며 이러한 셧다운이 드문 일이 아니라고 지적했습니다. 흥미롭게도 스프링은 역사적으로 이러한 셧다운 기간 동안 시장이 비교적 보합세를 유지해왔다는 점에 주목했습니다. 그러나 정부가 재개된 지 1년 후 평균 12%의 수익률을 기록해 초기 침체에도 불구하고 성장 가능성이 있음을 시사했습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;4분기에-대한-낙관적인-전망&quot;&gt;4분기에 대한 낙관적인 전망&lt;/h2&gt;
-&lt;p&gt;스프링은 올해 4분기에 대한 낙관적인 전망도 공유했습니다. 그는 학자금 대출 상환 재개에 대한 우려에도 불구하고 최근 보고에 따르면 사람들이 학자금 대출 부채를 예상보다 일찍 갚기 시작했다고 언급했습니다. 이는 소비자 지출에 큰 영향을 미치지 않았으며 이는 경제에 긍정적인 신호입니다. 또한, 스프링은 올해 마지막 3개월이 역사적으로 시장에 좋은 시기였다고 언급했습니다. 그는 또한 연방준비제도이사회가 현재 금리를 유지하여 시장을 더욱 안정시킬 수 있을 것으로 예상합니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;더-높은-이자율-탐색하기&quot;&gt;더 높은 이자율 탐색하기&lt;/h2&gt;
-&lt;p&gt;고금리에 대해 스프링은 역사적 관점에서 볼 때 현재 금리가 예외적으로 높지 않다고 생각합니다. 그는 개인, 특히 젊은 층이 이러한 금리 환경에 적응해야 할 필요성을 강조했습니다. 스프렁은 이러한 맥락에서 개인의 재무 상황과 목표를 이해하는 것이 중요하다고 강조했습니다. 그는 현금 흐름, 자산, 부채, 부채를 평가하고 부채를 줄이기 위한 계획을 세우는 등의 전략을 제안하면서 부채를 줄이는 데 우선순위를 둘 것을 권장했습니다. 결론적으로, 현재의 금리 환경을 효과적으로 헤쳐 나가기 위해서는 개인이 행동을 취하고 재무 목표의 우선순위를 정해야 한다는 스프링의 메시지는 분명합니다.&lt;/p&gt;
-
-&lt;h3 id=&quot;reference&quot;&gt;&lt;em&gt;Reference&lt;/em&gt;&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;https://www.youtube.com/watch?v=WUDsZHayHKg&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Sat, 07 Oct 2023 00:00:00 -0500</pubDate>
-        <link>https://trendywolf-ko.github.io//2023/10/07/3014-ko/</link>
-        <guid isPermaLink="true">https://trendywolf-ko.github.io//2023/10/07/3014-ko/</guid>
-        
-        <category>정부 셧다운</category>
-        
-        <category>포트폴리오</category>
-        
-        <category>강세 전망</category>
-        
-        <category>금리</category>
-        
-        <category>금융 목표</category>
         
         
       </item>
